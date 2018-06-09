@@ -1,0 +1,60 @@
+[30-Apr-2018 22:46:05 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:05 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:05 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:05 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:49 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:49 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:49 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:49 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:51 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:51 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:51 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:46:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:47:35 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:47:35 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:47:35 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:47:35 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:22 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:22 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:22 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:22 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:24 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:24 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:24 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:24 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:26 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:26 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:26 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:48:26 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:52:06 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:52:06 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:52:06 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:52:06 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:53:17 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:53:17 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:53:17 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 22:53:17 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:13 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:13 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:13 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:13 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:16 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:16 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:16 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:16 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:40 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:40 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:40 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:40 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:42 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:42 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:42 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:42 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:51 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:51 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:51 UTC] PHP Notice:  Undefined variable: dbname in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:02:51 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:08:41 UTC] PHP Notice:  Undefined variable: username in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:08:41 UTC] PHP Notice:  Undefined variable: password in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:08:41 UTC] PHP Warning:  mysqli::mysqli(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/sanatanv/public_html/reimburse/test/dipak.php on line 20
+[30-Apr-2018 23:09:29 UTC] PHP Notice:  Undefined variable: userid in /home/sanatanv/public_html/reimburse/test/dipak.php on line 26

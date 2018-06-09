@@ -1,0 +1,2 @@
+1. Admin upload image (use Ajax to check file extension size )
+2. 

@@ -1,0 +1,16 @@
+
+help menu to assist how the function works
+
+store password using crypt encryption 
+logo change
+
+
+User 
+peter777
+palak
+
+
+admin
+
+palak@gmail.com
+Dap@777

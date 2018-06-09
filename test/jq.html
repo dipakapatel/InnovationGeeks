@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html class="gr__webdesigncolors_navayan_com"><head>
+<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+  <title>jqExtension - jQuery file type validation plugin | WebDesignColors.com</title>
+  <meta name="keywords" content="jqExtension, jquery-validation, jquery-validate, file-validation, file-type-validation, extension-validation, image-validation, jquery-file-validate, jquery-form-validate, webdesigncolors, wdc">
+  <style>
+    body {
+      max-width: 600px;
+      margin: 0 auto;
+      font: 400 1em/1.5 helvetica, sans-serif;
+    }
+    h4 {
+      margin: 2em 0 0.5em 0;
+    }
+    form {
+      margin-bottom: 2em;
+    }
+    a {
+      color: #59d;
+      text-decoration: none;
+    }
+    a:hover {
+      color: #555;
+    }
+  </style>
+</head>
+<body data-gr-c-s-loaded="true">
+
+<h1><a href="http://webdesigncolors.com/jqextension-jquery-file-type-validation-plugin/">jqExtension</a> - File type validation</h1>
+<h3>jQuery file type validation plugin.</h3>
+
+<form>
+  <h4>1. Validate image file type</h4>
+  <input name="file" id="file" type="file">
+  <strong class="file-message"></strong>
+    
+  <h4>2. Validate text document type</h4>
+  <input name="file2" id="file2" type="file">
+  <strong class="file-message"></strong>
+</form>
+
+<footer>
+  <hr>
+  <a href="http://webdesigncolors.com/jqextension-jquery-file-type-validation-plugin/">Article @ WebDesignColors.com</a>
+</footer>
+  
+<script src="jq_files/jquery-2.js"></script>
+<script src="jq_files/jqExtension.js"></script>
+<script>
+(function ($) {
+  $('#file').jqExtension();
+  $('#file2').jqExtension({allowed: 'doc,docx,rtf,odt', validMessage: 'Validated!'});
+})(jQuery);
+</script>
+
+
+</body></html>
